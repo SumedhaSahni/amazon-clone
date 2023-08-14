@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Amazon-Clone</h1>
 
-<p id="description">In this project I've meticulously crafted a landing page that captures the essence of Amazon's user interface visual aesthetics and user experience. While this is a front-end endeavor I've focused on replicating key features and elements that users encounter when visiting Amazon.com.</p>
+<p id="description">The Amazon Clone frontend faithfully emulates the renowned e-commerce platform's user interface, capturing its familiar design elements and functionalities..</p>
 
 <h2>🧐 Features</h2>
 
